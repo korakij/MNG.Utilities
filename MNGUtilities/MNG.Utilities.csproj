@@ -7,8 +7,8 @@
     <ProjectGuid>{4F8F569F-ED86-4531-BE88-C5A190583113}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MNGUtilities</RootNamespace>
-    <AssemblyName>MNGUtilities</AssemblyName>
+    <RootNamespace>MNG.Utilities</RootNamespace>
+    <AssemblyName>MNG.Utilities</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

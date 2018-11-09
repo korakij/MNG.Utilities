@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace MNGUtilities
+namespace MNG.Utilities
 {
     public static class Util
     {
